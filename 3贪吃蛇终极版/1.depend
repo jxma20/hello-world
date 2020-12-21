@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1606234012 source:c:\users\ne2dle\desktop\1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1606564383 source:c:\users\tan\desktop\cÓïÑÔ×÷Òµ\Ì°³ÔÉß\Ì°³ÔÉß×îÖÕ°æ\1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1607300370 source:c:\users\tan\desktop\cÓïÑÔ×÷Òµ\Ì°³ÔÉß\Ì°³ÔÉß£¬Âí¼ÒĞ÷£¬½­×ÚÁØ£¬ºúµÏ£¬»Æ´ÈÑş\3Ì°³ÔÉßÖÕ¼«°æ\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
